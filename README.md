@@ -29,7 +29,7 @@
 
 1. **AWS 인프라 구축**
     - MSA 구조의 아키텍처 설계
-          <img width="1193" alt="Untitled (2)" src="https://user-images.githubusercontent.com/62296495/196046561-764d48a5-8193-42c6-b4e8-a6c840c5bf11.png">
+          <img width="1282" alt="이에이승 아키텍처 최종 사진" src="https://user-images.githubusercontent.com/62296495/236169778-80319b89-d185-4040-ac36-17c29e113790.PNG">
             
 2. **AI 영상 분석 Flask 서버 구현**
     - AI 분석 데이터 CRUD 구현
